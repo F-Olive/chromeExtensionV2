@@ -10,7 +10,7 @@ input text box, as they choose and that data will be saved to the array.
 Second option is the "SAVE TAB" Button, which uses a Chrome API option to save the 
 name of the Chrome TAB of the page the user is currently on, along with the URL of that page.
 
-All the data is saved in an <li> below the Buttons.
+All the data is saved in a "List Index" below the Buttons.
 
 The saved data is fully editable via the 🔧 icon.
 Once clicked on the selected data appears in the input boxes for editing. Once editing complete the "SAVE INPUT" Button resaves the data.
